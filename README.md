@@ -1,0 +1,1 @@
+# devops-typescript-inventory
